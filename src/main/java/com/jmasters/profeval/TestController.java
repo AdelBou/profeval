@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @RequestMapping
     public String home(){
-        return "this is fronts";
+        return "this is adel  fronts";
     }
 }
